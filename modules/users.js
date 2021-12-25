@@ -14,10 +14,6 @@ const patschm = new scm(
         password : {
             type : String,
             required : true
-        },
-        speciality :{
-            type : String,
-            required : true
         }
         
     }
